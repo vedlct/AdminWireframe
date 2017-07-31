@@ -70,8 +70,11 @@
                                     </div>
 
                                     <div id="add_remove_button" class="form-group">
-                                        <input type='button' value='Add Button' id='addButton'>
-                                        <input type='button' value='Remove Button' id='removeButton'>
+                                        <div class="col-lg-2"></div>
+                                        <div class="col-lg-10 form-group">
+                                        <input class="btn btn-sm btn-login" type='button' value='Add Section' id='addButton'>
+                                        <input class="btn btn-sm" type='button' value='Remove Section' id='removeButton'>
+                                    </div>
                                     </div>
 <!--                                    <div class="form-group ">-->
 <!--                                        <label for="cname" class="control-label col-lg-2">Title <span class="required">*</span></label>-->
@@ -168,17 +171,11 @@
 <!--    } );-->
 <!--</script>-->
 
-
 <script type="text/javascript">
     $(document).ready(function(){
-
-
         var counter = 2;
         $("#addButton").click(function () {
-
-
-
-            if(counter>30){
+             if(counter>30){
                 alert("Only 10 textboxes allow");
                 return false;
             }
@@ -213,22 +210,23 @@
             }
           //  alert(msg);
         });
-
-
     });
 </script>
 
+<script>
+    function load() {
 
+    }
+</script>
+
+<link href="http://cdnjs.cloudflare.com/ajax/libs/summernote/0.8.2/summernote.css" rel="stylesheet">
+<script src="http://cdnjs.cloudflare.com/ajax/libs/summernote/0.8.2/summernote.js"></script>
 
 <script>
     $(document).ready(function() {
         $('.summernote').summernote();
     });
-
 </script>
-
-<link href="http://cdnjs.cloudflare.com/ajax/libs/summernote/0.8.2/summernote.css" rel="stylesheet">
-<script src="http://cdnjs.cloudflare.com/ajax/libs/summernote/0.8.2/summernote.js"></script>
 
 </body>
 </html>
