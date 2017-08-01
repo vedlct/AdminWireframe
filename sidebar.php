@@ -116,8 +116,8 @@
                           <span class="menu-arrow arrow_carrot-right"></span>
                       </a>
                       <ul class="sub">
-                          <li><a class="" href="newmenu.php">Create a new Photo</a></li>
-                          <li><a class="" href="managemenu.php">Manage Photo</a></li>
+                          <li><a class="" href="newPhoto.php">New Photo</a></li>
+                          <li><a class="" href="managePhoto.php">Manage Photo</a></li>
                       </ul>
                   </li>
                   <li class="sub-menu">
@@ -127,8 +127,8 @@
                           <span class="menu-arrow arrow_carrot-right"></span>
                       </a>
                       <ul class="sub">
-                          <li><a class="" href="create_new_faculty.php">Create a new Faculties</a></li>
-                          <li><a class="" href="managemenu.php">Manage Faculties</a></li>
+                          <li><a class="" href="newFaculty.php">Create a new Faculties</a></li>
+                          <li><a class="" href="manageFaculty.php">Manage Faculties</a></li>
                       </ul>
                   </li>
                   <li class="sub-menu">
@@ -149,8 +149,8 @@
                           <span class="menu-arrow arrow_carrot-right"></span>
                       </a>
                       <ul class="sub">
-                          <li><a class="" href="create_new_events.php">Create a new Events</a></li>
-                          <li><a class="" href="managemenu.php">Manage Events</a></li>
+                          <li><a class="" href="newEvents.php">Create a new Events</a></li>
+                          <li><a class="" href="manageEvents.php">Manage Events</a></li>
                       </ul>
                   </li>
                   <li class="sub-menu">
@@ -160,8 +160,8 @@
                           <span class="menu-arrow arrow_carrot-right"></span>
                       </a>
                       <ul class="sub">
-                          <li><a class="" href="create_new_news.php">Create a new News</a></li>
-                          <li><a class="" href="managemenu.php">Manage News</a></li>
+                          <li><a class="" href="newNews.php">Create a new News</a></li>
+                          <li><a class="" href="manageNews.php">Manage News</a></li>
                       </ul>
                   </li>
                   <li class="sub-menu">
@@ -182,8 +182,8 @@
                           <span class="menu-arrow arrow_carrot-right"></span>
                       </a>
                       <ul class="sub">
-                          <li><a class="" href="newmenu.php">Create a new Feedbacks</a></li>
-                          <li><a class="" href="managemenu.php">Manage Feedbacks</a></li>
+                          <li><a class="" href="newFeedback.php">New Feedbacks</a></li>
+                          <li><a class="" href="manageFeedbacks.php">Manage Feedbacks</a></li>
                       </ul>
                   </li>
                   <li class="sub-menu">
@@ -198,15 +198,11 @@
                       </ul>
                   </li>
                   <li class="sub-menu">
-                      <a href="javascript:;" class="">
+                      <a href="collegeinfo.php" class="">
                           <i class="icon_info"></i>
-                          <span>CollegeInfo</span>
-                          <span class="menu-arrow arrow_carrot-right"></span>
+                          <span>College Info</span>
+
                       </a>
-                      <ul class="sub">
-                          <li><a class="" href="newmenu.php">Create a new CollegeInfo</a></li>
-                          <li><a class="" href="managemenu.php">Manage CollegeInfo</a></li>
-                      </ul>
                   </li>
 
 

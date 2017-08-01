@@ -59,12 +59,11 @@
                                     <div class="form-group ">
                                         <label for="curl" class="control-label col-lg-2">Event Start Date Time</label>
                                         <div class="col-lg-4">
-                                            <!--                                            <input class="form-control " id="curl" type="url" name="url" />-->
-<!--                                            <input type="text" class="form-control docs-date" name="date_from" placeholder="Pick a date">-->
+
                                             <div class="input-group date form_datetime " data-date="1979-09-16T05:25:07Z" data-date-format="dd MM yyyy - HH:ii p" data-link-field="dtp_input1">
                                                 <input class="form-control" size="16" type="text" value="" readonly>
                                                 <span class="input-group-addon"><span class="glyphicon glyphicon-remove"></span></span>
-                                                <span class="input-group-addon"><span class="glyphicon glyphicon-time"></span></span>
+                                                <span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span>
                                             </div>
                                             <input type="hidden" id="dtp_input1" value="" /><br/>
                                         </div>
@@ -76,7 +75,7 @@
                                             <div class="input-group date form_datetime " data-date="1979-09-16T05:25:07Z" data-date-format="dd MM yyyy - HH:ii p" data-link-field="dtp_input1">
                                                 <input class="form-control" size="16" type="text" value="" readonly>
                                                 <span class="input-group-addon"><span class="glyphicon glyphicon-remove"></span></span>
-                                                <span class="input-group-addon"><span class="glyphicon glyphicon-time"></span></span>
+                                                <span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span>
                                             </div>
                                             <input type="hidden" id="dtp_input1" value="" /><br/>
                                         </div>
@@ -95,7 +94,7 @@
 
                                         <label for="event_image" class="control-label col-lg-2">Event Image <span class="required">*</span></label>
                                         <div class="col-lg-4">
-                                            <input type="file" name="event_image" id="event_image" required>
+                                            <input class="form-control" type="file" name="event_image" id="event_image" required>
                                         </div>
 
                                     </div>
