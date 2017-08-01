@@ -35,7 +35,7 @@
                             Manage Photo
                         </header>
                         <div class="panel-body table table-responsive">
-                        <table class="table table-striped table-advance table-hover">
+                        <table class="table table-striped table-advance table-hover table-bordered">
                             <tbody>
                             <tr>
                                 <th>Photo Name</th>

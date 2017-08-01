@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c94ebb1-2ce4-4717-a201-dc3953449690" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/manageEvents.php" afterPath="$PROJECT_DIR$/manageEvents.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/manageFaculty.php" afterPath="$PROJECT_DIR$/manageFaculty.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/manageFeedbacks.php" afterPath="$PROJECT_DIR$/manageFeedbacks.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/manageNews.php" afterPath="$PROJECT_DIR$/manageNews.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/managePhoto.php" afterPath="$PROJECT_DIR$/managePhoto.php" />
     </list>
@@ -45,7 +42,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="manageFeedbacks.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="manageFeedbacks.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/manageFeedbacks.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="468">
@@ -58,8 +55,8 @@
       <file leaf-file-name="manageNews.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/manageNews.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1037">
-              <caret line="82" column="30" lean-forward="false" selection-start-line="82" selection-start-column="30" selection-end-line="82" selection-end-column="30" />
+            <state relative-caret-position="272">
+              <caret line="37" column="98" lean-forward="false" selection-start-line="37" selection-start-column="98" selection-end-line="37" selection-end-column="98" />
               <folding />
             </state>
           </provider>
@@ -68,17 +65,17 @@
       <file leaf-file-name="managePhoto.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/managePhoto.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="74" column="30" lean-forward="false" selection-start-line="74" selection-start-column="30" selection-end-line="74" selection-end-column="30" />
+            <state relative-caret-position="425">
+              <caret line="37" column="98" lean-forward="false" selection-start-line="37" selection-start-column="98" selection-end-line="37" selection-end-column="98" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="newFaculty.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="newFaculty.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/newFaculty.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
+            <state relative-caret-position="-595">
               <caret line="37" column="24" lean-forward="false" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
               <folding />
             </state>
@@ -137,10 +134,10 @@
         <option value="$PROJECT_DIR$/newPhoto.php" />
         <option value="$PROJECT_DIR$/sidebar.php" />
         <option value="$PROJECT_DIR$/manageFaculty.php" />
-        <option value="$PROJECT_DIR$/manageNews.php" />
-        <option value="$PROJECT_DIR$/managePhoto.php" />
         <option value="$PROJECT_DIR$/manageEvents.php" />
         <option value="$PROJECT_DIR$/manageFeedbacks.php" />
+        <option value="$PROJECT_DIR$/manageNews.php" />
+        <option value="$PROJECT_DIR$/managePhoto.php" />
       </list>
     </option>
   </component>
@@ -275,12 +272,12 @@
       <workItem from="1501312993911" duration="4110000" />
       <workItem from="1501398000282" duration="1055000" />
       <workItem from="1501477229955" duration="23463000" />
-      <workItem from="1501563299808" duration="12305000" />
+      <workItem from="1501563299808" duration="12915000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56136000" />
+    <option name="totallyTimeSpent" value="56746000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -680,30 +677,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/newFaculty.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="37" column="24" lean-forward="false" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/manageNews.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1037">
-          <caret line="82" column="30" lean-forward="false" selection-start-line="82" selection-start-column="30" selection-end-line="82" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/managePhoto.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="74" column="30" lean-forward="false" selection-start-line="74" selection-start-column="30" selection-end-line="74" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/manageEvents.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
@@ -724,6 +697,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="468">
           <caret line="37" column="98" lean-forward="false" selection-start-line="37" selection-start-column="98" selection-end-line="37" selection-end-column="98" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manageNews.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="37" column="98" lean-forward="false" selection-start-line="37" selection-start-column="98" selection-end-line="37" selection-end-column="98" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/managePhoto.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="37" column="98" lean-forward="false" selection-start-line="37" selection-start-column="98" selection-end-line="37" selection-end-column="98" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newFaculty.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-595">
+          <caret line="37" column="24" lean-forward="false" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
           <folding />
         </state>
       </provider>
