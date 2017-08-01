@@ -34,8 +34,8 @@
                         <header class="panel-heading">
                             Manage Events
                         </header>
-
-                        <table class="table table-striped table-advance table-hover">
+                        <div class="panel-body table table-responsive">
+                        <table class="table table-striped table-advance table-hover table-bordered">
                             <tbody>
                             <tr>
                                 <th>Events Title</th>
@@ -43,6 +43,7 @@
                                 <th>Events Details</th>
                                 <th>Events (Start/End) Date</th>
                                 <th>Events Image</th>
+                                <th>Events Status</th>
                                 <th> Action</th>
                             </tr>
                             <tr>
@@ -91,6 +92,7 @@
 
                             </tbody>
                         </table>
+                        </div>
                     </section>
                 </div>
             </div>

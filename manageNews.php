@@ -34,7 +34,7 @@
                         <header class="panel-heading">
                             Manage News
                         </header>
-
+                        <div class="panel-body table table-responsive">
                         <table class="table table-striped table-advance table-hover">
                             <tbody>
                             <tr>
@@ -80,6 +80,7 @@
 
                             </tbody>
                         </table>
+                        </div>
                     </section>
                 </div>
             </div>

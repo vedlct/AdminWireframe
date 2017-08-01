@@ -34,8 +34,8 @@
                         <header class="panel-heading">
                             Manage Faculty
                         </header>
-
-                        <table class="table table-striped table-advance table-hover">
+                        <div class="panel-body table table-responsive">
+                        <table class="table table-striped table-advance table-hover table-bordered">
                             <tbody>
                             <tr>
                                 <th> Faculty Name</th>
@@ -81,6 +81,7 @@
 
                             </tbody>
                         </table>
+                        </div>
                     </section>
                 </div>
             </div>
