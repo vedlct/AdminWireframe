@@ -32,78 +32,90 @@
                 <div class="col-lg-12">
                     <section class="panel">
                         <header class="panel-heading">
-                            Manage Menu
+                            Manage Page Section
                         </header>
+                        <div class="panel-body">
+                            <div class="form-group">
+                                <label class="control-label col-lg-2" for="inputSuccess">Page</label>
+                                <div class="col-lg-10">
+                                    <select class="form-control m-bot15" name="level" onchange="showtable()">
+                                        <option>Select Page</option>
+                                        <option>About </option>
+                                        <option>Health</option>
+                                        <option>College Life</option>
+                                        <option>Addmission</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div id="tableid" style="display: none">
+                                <table class="table table-striped table-advance table-bordered table-hover ">
+                                    <tbody>
+                                    <tr>
+                                        <th> Page Section Title </th>
+                                        <th> Action</th>
+                                    </tr>
+                                    <tr>
+                                        <td>Angeline Mcclain</td>
 
-                        <table class="table table-striped table-advance table-hover">
-                            <tbody>
-                            <tr>
-                                <th> Page Name</th>
-                                <th> Page Type</th>
-                                <th> Action</th>
-                            </tr>
-                            <tr>
-                                <td>Angeline Mcclain</td>
-                                <td>About Type</td>
-
-                                <td>
-                                    <div class="btn-group">
-                                        <a class="btn" href="#"><i class="icon_pencil-edit"></i></a>
-                                        <a class="btn " href="#"><i class="icon_trash"></i></a>
-                                    </div>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>Sung Carlson</td>
-                                <td>Terms Type</td>
-
-
-                                <td>
-                                    <div class="btn-group">
-                                        <a class="btn" href="#"><i class="icon_pencil-edit"></i></a>
-                                        <a class="btn " href="#"><i class="icon_trash"></i></a>
-                                    </div>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>Bryon Osborne</td>
-                                <td>Health Type</td>
+                                        <td>
+                                            <div class="btn-group">
+                                                <a class="btn" href="#"><i class="icon_pencil-edit"></i></a>
+                                                <a class="btn " href="#"><i class="icon_trash"></i></a>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>Sung Carlson</td>
 
 
-                                <td>
-                                    <div class="btn-group">
-                                        <a class="btn" href="#"><i class="icon_pencil-edit"></i></a>
-                                        <a class="btn " href="#"><i class="icon_trash"></i></a>
-                                    </div>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>Dalia Marquez</td>
-                                <td>Health Type</td>
+
+                                        <td>
+                                            <div class="btn-group">
+                                                <a class="btn" href="#"><i class="icon_pencil-edit"></i></a>
+                                                <a class="btn " href="#"><i class="icon_trash"></i></a>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>Bryon Osborne</td>
 
 
-                                <td>
-                                    <div class="btn-group">
-                                        <a class="btn" href="#"><i class="icon_pencil-edit"></i></a>
-                                        <a class="btn " href="#"><i class="icon_trash"></i></a>
-                                    </div>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>Selina Fitzgerald</td>
-                                <td>Terms Type</td>
+
+                                        <td>
+                                            <div class="btn-group">
+                                                <a class="btn" href="#"><i class="icon_pencil-edit"></i></a>
+                                                <a class="btn " href="#"><i class="icon_trash"></i></a>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>Dalia Marquez</td>
 
 
-                                <td>
-                                    <div class="btn-group">
-                                        <a class="btn" href="#"><i class="icon_pencil-edit"></i></a>
-                                        <a class="btn " href="#"><i class="icon_trash"></i></a>
-                                    </div>
-                                </td>
-                            </tr>
 
-                            </tbody>
-                        </table>
+                                        <td>
+                                            <div class="btn-group">
+                                                <a class="btn" href="#"><i class="icon_pencil-edit"></i></a>
+                                                <a class="btn " href="#"><i class="icon_trash"></i></a>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>Selina Fitzgerald</td>
+
+
+
+                                        <td>
+                                            <div class="btn-group">
+                                                <a class="btn" href="#"><i class="icon_pencil-edit"></i></a>
+                                                <a class="btn " href="#"><i class="icon_trash"></i></a>
+                                            </div>
+                                        </td>
+                                    </tr>
+
+                                    </tbody>
+                                </table>
+                            </div>
                     </section>
                 </div>
             </div>
@@ -133,6 +145,11 @@
 <!--custome script for all page-->
 <script src="js/scripts.js"></script>
 
+<script>
+    function showtable() {
 
+        document.getElementById("tableid").style.display ="block";
+    }
+</script>
 </body>
 </html>
