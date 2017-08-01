@@ -142,8 +142,6 @@
                           <span class="menu-arrow arrow_carrot-right"></span>
                       </a>
                       <ul class="sub">
-
-
                           <li><a class="" href="newNews.php">Create a new News</a></li>
                           <li><a class="" href="manageNews.php">Manage News</a></li>
 
@@ -168,7 +166,6 @@
                       </a>
                       <ul class="sub">
 
-
                           <li><a class="" href="newFeedback.php">New Feedbacks</a></li>
                           <li><a class="" href="manageFeedbacks.php">Manage Feedbacks</a></li>
 
@@ -192,14 +189,7 @@
 
                       </a>
 
-                      <ul class="sub">
-                          <li><a class="" href="newMenu.php">Create a new CollegeInfo</a></li>
-                          <li><a class="" href="manageMenu.php">Manage CollegeInfo</a></li>
-                      </ul>
-
                   </li>
-
-
 
               </ul>
               <!-- sidebar menu end-->

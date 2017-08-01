@@ -57,7 +57,7 @@
                             <tr>
                                 <td>Feedback Name</td>
                                 <td>Feedback Status</td>
-                                
+
                                 <td>
                                     <div class="btn-group">
                                         <a class="btn" href="#"><i class="icon_pencil-edit"></i></a>
