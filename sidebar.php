@@ -28,7 +28,7 @@
                       </a>
                       <ul class="sub">
                           <li><a class="" href="newPageSection.php">Create a new Sections</a></li>
-                          <li><a class="" href="managePage.php"><span>Manage Page Sections</span></a></li>
+                          <li><a class="" href="managePageSection.php"><span>Manage Page Sections</span></a></li>
                       </ul>
                   </li>
                   <li class="sub-menu">
@@ -38,8 +38,8 @@
                           <span class="menu-arrow arrow_carrot-right"></span>
                       </a>
                       <ul class="sub">
-                          <li><a class="" href="newmenu.php">Create a new Menu</a></li>
-                          <li><a class="" href="managemenu.php">Manage Menu</a></li>
+                          <li><a class="" href="newMenu.php">Create a new Menu</a></li>
+                          <li><a class="" href="manageMenu.php">Manage Menu</a></li>
                       </ul>
                   </li>
                   <li class="sub-menu">
@@ -49,8 +49,8 @@
                           <span class="menu-arrow arrow_carrot-right"></span>
                       </a>
                       <ul class="sub">
-                          <li><a class="" href="newmenu.php">Create a new Departments</a></li>
-                          <li><a class="" href="managemenu.php">Manage Departments</a></li>
+                          <li><a class="" href="newDepartment.php">Create a new </a></li>
+                          <li><a class="" href="manageDepartment.php">Manage Departments</a></li>
                       </ul>
                   </li>
 
@@ -61,8 +61,8 @@
                           <span class="menu-arrow arrow_carrot-right"></span>
                       </a>
                       <ul class="sub">
-                          <li><a class="" href="newmenu.php">Create a new Courses</a></li>
-                          <li><a class="" href="managemenu.php">Manage Courses</a></li>
+                          <li><a class="" href="newCourse.php">Create a new Courses</a></li>
+                          <li><a class="" href="manageCourse.php">Manage Courses</a></li>
                       </ul>
                   </li>
                   <li class="sub-menu">
@@ -72,32 +72,11 @@
                           <span class="menu-arrow arrow_carrot-right"></span>
                       </a>
                       <ul class="sub">
-                          <li><a class="" href="newmenu.php">Create a new Sections</a></li>
-                          <li><a class="" href="managemenu.php">Manage Course Sections</a></li>
+                          <li><a class="" href="newCourseSection.php">Create a new Sections</a></li>
+                          <li><a class="" href="manageCourseSection.php">Manage Course </a></li>
                       </ul>
                   </li>
-                  <li class="sub-menu">
-                      <a href="javascript:;" class="">
-                          <i class="icon_book_alt"></i>
-                          <span>Course Units</span>
-                          <span class="menu-arrow arrow_carrot-right"></span>
-                      </a>
-                      <ul class="sub">
-                          <li><a class="" href="newmenu.php">Create a new Units</a></li>
-                          <li><a class="" href="managemenu.php">Manage Course Units</a></li>
-                      </ul>
-                  </li>
-                  <li class="sub-menu">
-                      <a href="javascript:;" class="">
-                          <i class="icon_book_alt"></i>
-                          <span> Unit Sections</span>
-                          <span class="menu-arrow arrow_carrot-right"></span>
-                      </a>
-                      <ul class="sub">
-                          <li><a class="" href="newmenu.php">Create a new  Sections</a></li>
-                          <li><a class="" href="managemenu.php">Manage Unit Sections</a></li>
-                      </ul>
-                  </li>
+
                   <li class="sub-menu">
                       <a href="javascript:;" class="">
                           <i class="icon_group"></i>
@@ -105,8 +84,8 @@
                           <span class="menu-arrow arrow_carrot-right"></span>
                       </a>
                       <ul class="sub">
-                          <li><a class="" href="newmenu.php">Create a new User Roles</a></li>
-                          <li><a class="" href="managemenu.php">Manage User Roles</a></li>
+                          <li><a class="" href="#">Create a new User Roles</a></li>
+                          <li><a class="" href="#">Manage User Roles</a></li>
                       </ul>
                   </li>
                   <li class="sub-menu">
@@ -116,8 +95,8 @@
                           <span class="menu-arrow arrow_carrot-right"></span>
                       </a>
                       <ul class="sub">
-                          <li><a class="" href="newmenu.php">Create a new Photo</a></li>
-                          <li><a class="" href="managemenu.php">Manage Photo</a></li>
+                          <li><a class="" href="newMenu.php">Create a new Photo</a></li>
+                          <li><a class="" href="manageMenu.php">Manage Photo</a></li>
                       </ul>
                   </li>
                   <li class="sub-menu">
@@ -128,7 +107,7 @@
                       </a>
                       <ul class="sub">
                           <li><a class="" href="create_new_faculty.php">Create a new Faculties</a></li>
-                          <li><a class="" href="managemenu.php">Manage Faculties</a></li>
+                          <li><a class="" href="manageMenu.php">Manage Faculties</a></li>
                       </ul>
                   </li>
                   <li class="sub-menu">
@@ -138,8 +117,8 @@
                           <span class="menu-arrow arrow_carrot-right"></span>
                       </a>
                       <ul class="sub">
-                          <li><a class="" href="newmenu.php">Create a new Affiliations</a></li>
-                          <li><a class="" href="managemenu.php">Manage Affiliations</a></li>
+                          <li><a class="" href="newMenu.php">Create a new Affiliations</a></li>
+                          <li><a class="" href="manageMenu.php">Manage Affiliations</a></li>
                       </ul>
                   </li>
                   <li class="sub-menu">
@@ -150,7 +129,7 @@
                       </a>
                       <ul class="sub">
                           <li><a class="" href="create_new_events.php">Create a new Events</a></li>
-                          <li><a class="" href="managemenu.php">Manage Events</a></li>
+                          <li><a class="" href="manageMenu.php">Manage Events</a></li>
                       </ul>
                   </li>
                   <li class="sub-menu">
@@ -161,7 +140,7 @@
                       </a>
                       <ul class="sub">
                           <li><a class="" href="create_new_news.php">Create a new News</a></li>
-                          <li><a class="" href="managemenu.php">Manage News</a></li>
+                          <li><a class="" href="manageMenu.php">Manage News</a></li>
                       </ul>
                   </li>
                   <li class="sub-menu">
@@ -171,8 +150,8 @@
                           <span class="menu-arrow arrow_carrot-right"></span>
                       </a>
                       <ul class="sub">
-                          <li><a class="" href="newmenu.php">Create a new </a></li>
-                          <li><a class="" href="managemenu.php">Manage RegisterInterests</a></li>
+                          <li><a class="" href="newMenu.php">Create a new </a></li>
+                          <li><a class="" href="manageMenu.php">Manage RegisterInterests</a></li>
                       </ul>
                   </li>
                   <li class="sub-menu">
@@ -182,8 +161,8 @@
                           <span class="menu-arrow arrow_carrot-right"></span>
                       </a>
                       <ul class="sub">
-                          <li><a class="" href="newmenu.php">Create a new Feedbacks</a></li>
-                          <li><a class="" href="managemenu.php">Manage Feedbacks</a></li>
+                          <li><a class="" href="newMenu.php">Create a new Feedbacks</a></li>
+                          <li><a class="" href="manageMenu.php">Manage Feedbacks</a></li>
                       </ul>
                   </li>
                   <li class="sub-menu">
@@ -193,8 +172,8 @@
                           <span class="menu-arrow arrow_carrot-right"></span>
                       </a>
                       <ul class="sub">
-                          <li><a class="" href="newmenu.php">Create a new ContactUs</a></li>
-                          <li><a class="" href="managemenu.php">Manage ContactUs</a></li>
+                          <li><a class="" href="newMenu.php">Create a new ContactUs</a></li>
+                          <li><a class="" href="manageMenu.php">Manage ContactUs</a></li>
                       </ul>
                   </li>
                   <li class="sub-menu">
@@ -204,8 +183,8 @@
                           <span class="menu-arrow arrow_carrot-right"></span>
                       </a>
                       <ul class="sub">
-                          <li><a class="" href="newmenu.php">Create a new CollegeInfo</a></li>
-                          <li><a class="" href="managemenu.php">Manage CollegeInfo</a></li>
+                          <li><a class="" href="newMenu.php">Create a new CollegeInfo</a></li>
+                          <li><a class="" href="manageMenu.php">Manage CollegeInfo</a></li>
                       </ul>
                   </li>
 
