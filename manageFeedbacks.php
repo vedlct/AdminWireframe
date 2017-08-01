@@ -40,15 +40,13 @@
                             <tr>
                                 <th>Feedback Name</th>
                                 <th>Feedback Status</th>
-                                <th>Feedback Image</th>
-                                <th>Feedback Details</th>
+
                                 <th> Action</th>
                             </tr>
                             <tr>
                                 <td>Feedback Name</td>
                                 <td>Feedback Status</td>
-                                <td>Feedback Image</td>
-                                <td>Feedback Details</td>
+
                                 <td>
                                     <div class="btn-group">
                                         <a class="btn" href="#"><i class="icon_pencil-edit"></i></a>
@@ -59,8 +57,7 @@
                             <tr>
                                 <td>Feedback Name</td>
                                 <td>Feedback Status</td>
-                                <td>Feedback Image</td>
-                                <td>Feedback Details</td>
+                                
                                 <td>
                                     <div class="btn-group">
                                         <a class="btn" href="#"><i class="icon_pencil-edit"></i></a>

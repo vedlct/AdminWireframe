@@ -149,17 +149,17 @@
 
                       </ul>
                   </li>
-                  <li class="sub-menu">
-                      <a href="javascript:;" class="">
-                          <i class="icon_book_alt"></i>
-                          <span>RegisterInterest</span>
-                          <span class="menu-arrow arrow_carrot-right"></span>
-                      </a>
-                      <ul class="sub">
-                          <li><a class="" href="newMenu.php">Create a new </a></li>
-                          <li><a class="" href="manageMenu.php">Manage RegisterInterests</a></li>
-                      </ul>
-                  </li>
+<!--                  <li class="sub-menu">-->
+<!--                      <a href="javascript:;" class="">-->
+<!--                          <i class="icon_book_alt"></i>-->
+<!--                          <span>RegisterInterest</span>-->
+<!--                          <span class="menu-arrow arrow_carrot-right"></span>-->
+<!--                      </a>-->
+<!--                      <ul class="sub">-->
+<!--                          <li><a class="" href="newMenu.php">Create a new </a></li>-->
+<!--                          <li><a class="" href="manageMenu.php">Manage RegisterInterests</a></li>-->
+<!--                      </ul>-->
+<!--                  </li>-->
                   <li class="sub-menu">
                       <a href="javascript:;" class="">
                           <i class="icon_comment"></i>
@@ -174,17 +174,17 @@
 
                       </ul>
                   </li>
-                  <li class="sub-menu">
-                      <a href="javascript:;" class="">
-                          <i class="icon_contacts"></i>
-                          <span>ContactUs</span>
-                          <span class="menu-arrow arrow_carrot-right"></span>
-                      </a>
-                      <ul class="sub">
-                          <li><a class="" href="newMenu.php">Create a new ContactUs</a></li>
-                          <li><a class="" href="manageMenu.php">Manage ContactUs</a></li>
-                      </ul>
-                  </li>
+<!--                  <li class="sub-menu">-->
+<!--                      <a href="javascript:;" class="">-->
+<!--                          <i class="icon_contacts"></i>-->
+<!--                          <span>ContactUs</span>-->
+<!--                          <span class="menu-arrow arrow_carrot-right"></span>-->
+<!--                      </a>-->
+<!--                      <ul class="sub">-->
+<!--                          <li><a class="" href="newMenu.php">Create a new ContactUs</a></li>-->
+<!--                          <li><a class="" href="manageMenu.php">Manage ContactUs</a></li>-->
+<!--                      </ul>-->
+<!--                  </li>-->
                   <li class="sub-menu">
                       <a href="collegeinfo.php" class="">
                           <i class="icon_info"></i>

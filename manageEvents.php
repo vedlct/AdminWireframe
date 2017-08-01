@@ -39,19 +39,18 @@
                             <tbody>
                             <tr>
                                 <th>Events Title</th>
-                                <th>Events Type</th>
-                                <th>Events Details</th>
+
+
                                 <th>Events (Start/End) Date</th>
-                                <th>Events Image</th>
+
                                 <th>Events Status</th>
                                 <th> Action</th>
                             </tr>
                             <tr>
                                 <td>Events Title</td>
-                                <td>Events Type</td>
-                                <td>Events Details</td>
+
                                 <td>Events (Start/End) Date</td>
-                                <td>Events Image</td>
+
                                 <td>Active</td>
                                 <td>
                                     <div class="btn-group">
@@ -62,10 +61,9 @@
                             </tr>
                             <tr>
                                 <td>Events Title</td>
-                                <td>Events Type</td>
-                                <td>Events Details</td>
+
                                 <td>Events (Start/End) Date</td>
-                                <td>Events Image</td>
+
                                 <td>Active</td>
                                 <td>
                                     <div class="btn-group">
@@ -76,10 +74,9 @@
                             </tr>
                             <tr>
                                 <td>Events Title</td>
-                                <td>Events Type</td>
-                                <td>Events Details</td>
+
                                 <td>Events (Start/End) Date</td>
-                                <td>Events Image</td>
+
                                 <td>Active</td>
                                 <td>
                                     <div class="btn-group">

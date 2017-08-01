@@ -40,15 +40,14 @@
                             <tr>
                                 <th>Photo Name</th>
                                 <th>Photo Status</th>
-                                <th>Photo Image</th>
-                                <th>Photo Details</th>
+
+
                                 <th> Action</th>
                             </tr>
                             <tr>
                                 <td>Photo Name</td>
                                 <td>Photo Status</td>
-                                <td>Photo Image</td>
-                                <td>Photo Details</td>
+
                                 <td>
                                     <div class="btn-group">
                                         <a class="btn" href="#"><i class="icon_pencil-edit"></i></a>
@@ -59,8 +58,7 @@
                             <tr>
                                 <td>Photo Name</td>
                                 <td>Photo Status</td>
-                                <td>Photo Image</td>
-                                <td>Photo Details</td>
+
                                 <td>
                                     <div class="btn-group">
                                         <a class="btn" href="#"><i class="icon_pencil-edit"></i></a>
